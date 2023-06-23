@@ -1,7 +1,7 @@
 let song;
 function preload() {
   // Load a sound file
-  song = loadSound('http://localhost:8000/tribesensho.mp3');
+  song = loadSound('tribesensho.mp3');
 }
 
 function setup() {
